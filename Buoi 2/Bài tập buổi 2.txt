@@ -1,0 +1,2 @@
+Bài tập 1: Hãy xuất ra chữ "Vietnam number one"
+Bài tập 2: Hãy làm phép tính 10+20
