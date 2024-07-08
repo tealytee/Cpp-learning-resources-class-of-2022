@@ -1,0 +1,35 @@
+Dấu cộng
+  #include<iostream>
+using namespace std;
+int main(){
+cout << 55+ 10;
+ 
+return 0;
+}
+
+Dấu trừ
+  #include<iostream>
+using namespace std;
+int main(){
+cout << 55- 10;
+ 
+return 0;
+}
+
+Dấu nhân
+    #include<iostream>
+using namespace std;
+int main(){
+cout << 55*10;
+ 
+return 0;
+}
+
+Dấu chia
+    #include<iostream>
+using namespace std;
+int main(){
+cout << 55/10;
+ 
+return 0;
+}
