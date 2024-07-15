@@ -1,0 +1,1 @@
+Viết một đoạn code để tính ba giá trị a,b,c
